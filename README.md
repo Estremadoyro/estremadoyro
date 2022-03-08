@@ -1,11 +1,17 @@
-<h2>
-Leonardo Estremadoyro &nbsp;
+
+### Leonardo Estremadoyro 🇵🇪
+
 <a href="https://www.linkedin.com/in/leonardo-estremadoyro/"> 
   <img align="" alt="Leonardo's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> 
 </a>
-</h2>
+
+<br />
+<br />
+
+Bachelor's degree in Software Engineering from University of Lima. iOS, data engineering & web development enthusiast. I'm actively learning new technologies and developing personal projects @ https://github.com/Estremadoyro
 
 📈 Github stats
+Bachelor's degree in Software Engineering from University of Lima. iOS, data engineering & web development enthusiast. I'm actively learning new technologies and developing personal projects @ https://github.com/Estremadoyro
 
 ![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=estremadoyro&show_icons=true&theme=radical)
 
