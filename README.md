@@ -11,7 +11,6 @@
 Bachelor's degree in Software Engineering from University of Lima. iOS, data engineering & web development enthusiast. I'm actively learning new technologies and developing personal projects @ https://github.com/Estremadoyro
 
 📈 Github stats
-Bachelor's degree in Software Engineering from University of Lima. iOS, data engineering & web development enthusiast. I'm actively learning new technologies and developing personal projects @ https://github.com/Estremadoyro
 
 ![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=estremadoyro&show_icons=true&theme=radical)
 
