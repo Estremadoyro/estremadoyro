@@ -1,11 +1,9 @@
-### Leonardo Estremadoyro 🇵🇪
+<h2>
+Leonardo Estremadoyro &nbsp;
 <a href="https://www.linkedin.com/in/leonardo-estremadoyro/"> 
-  <img align="left" alt="Leonardo's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> 
-</a> 
-
-
-<br />
-<br />
+  <img align="" alt="Leonardo's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> 
+</a>
+</h2>
 
 📈 Github stats
 
