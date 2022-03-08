@@ -2,7 +2,7 @@
 ### Leonardo Estremadoyro 🇵🇪
 
 <a href="https://www.linkedin.com/in/leonardo-estremadoyro/"> 
-  <img align="" alt="Leonardo's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> 
+  <img align="" target="_blank" alt="Leonardo's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> 
 </a>
 
 <br />
