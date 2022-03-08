@@ -31,3 +31,5 @@ Bachelor's degree in Software Engineering from University of Lima. iOS, data eng
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+*[03-08-22] Fixed the email address for tracking commits, from now on, commits will appear in the contributions section*
