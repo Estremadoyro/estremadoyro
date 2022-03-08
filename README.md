@@ -12,7 +12,7 @@ Bachelor's degree in Software Engineering from University of Lima. iOS, data eng
 
 📈 Github stats
 
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=estremadoyro&show_icons=true&theme=radical)
+![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=estremadoyro&show_icons=true&theme=tokyonight)
 
 📊 Weekly development
 
