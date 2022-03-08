@@ -8,7 +8,7 @@
 <br />
 <br />
 
-Bachelor's degree in Software Engineering from University of Lima. iOS, data engineering & web development enthusiast. I'm actively learning new technologies and developing personal projects.
+Bachelor's degree in Software Engineering from University of Lima. iOS, data & web development enthusiast. I'm actively learning new technologies and developing personal projects.
 
 **Technologies:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
