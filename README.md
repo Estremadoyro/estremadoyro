@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**Estremadoyro/estremadoyro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.instagram.com/leoestremadoyro/">
+  <img align="left" alt="Leonardo's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://www.linkedin.com/in/leonardo-estremadoyro/">
+  <img align="left" alt="Leonardo's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-Here are some ideas to get you started:
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Github stats
+
+![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=estremadoyro&show_icons=true&theme=radical)
+
+<br />
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
