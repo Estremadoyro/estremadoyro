@@ -22,7 +22,10 @@ Bachelor's degree in Software Engineering from University of Lima. iOS, data & w
 
 ## Connect
 <a href="https://www.linkedin.com/in/leonardo-estremadoyro/" target="_blank"> 
-  <img align="" alt="Leonardo's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> 
+  <img align="" alt="Leonardo's LinkedIn" width="25px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> 
+</a> &nbsp;
+<a href="https://www.instagram.com/leoestremadoyro/" target="_blank"> 
+  <img align="" alt="Leonardo's Instagram" width="25px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> 
 </a>
 
 ###### *[03-08-22] Fixed the email address for tracking commits, from now on, commits will appear in the contributions section*
