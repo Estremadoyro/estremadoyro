@@ -9,7 +9,7 @@
 
 Bachelor's degree in Software Engineering from University of Lima. iOS, data & web development enthusiast. I'm actively learning new technologies and developing personal projects.
 
-#### Technologies
+### Technologies
 <p>
 <img height="30" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" />
 <img height="30" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" />
@@ -22,7 +22,7 @@ Bachelor's degree in Software Engineering from University of Lima. iOS, data & w
 <img height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 </p>
 
-#### 📈 Github stats
+### 📈 Github stats
 
 ![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=estremadoyro&show_icons=true&theme=tokyonight)
 
