@@ -17,10 +17,6 @@ Bachelor's degree in Software Engineering from University of Lima. iOS, data & w
 <img height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 </p>
 
-## 📈 Github stats
-
-![Leonardo's GitHub stats](https://github-readme-stats-delta-murex.vercel.app/api?username=estremadoyro&show_icons=true&theme=tokyonight)
-
 ## Connect
 <a href="https://www.linkedin.com/in/leonardo-estremadoyro/" target="_blank"> 
   <img align="" alt="Leonardo's LinkedIn" width="25px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> 
