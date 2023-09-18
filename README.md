@@ -1,5 +1,5 @@
 
-## Leonardo Estremadoyro 🇵🇪
+## Leonardo Estremadoyro
 
 Bachelor's degree in Software Engineering from University of Lima. iOS, data & web development enthusiast. I'm actively learning new technologies and developing personal projects.
 
