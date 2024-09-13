@@ -12,8 +12,8 @@ Bachelor's degree in Software Engineering from University of Lima. iOS, data & w
 ## Technologies
 <p>
 <img height="30" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" />
-<img height="30" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" />
 <img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
+<img height="30" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" />
 <img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
 <img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 <img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
