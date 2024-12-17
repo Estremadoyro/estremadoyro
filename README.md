@@ -1,7 +1,7 @@
 
 ## Leonardo Estremadoyro
 
-Bachelor's degree in Software Engineering from University of Lima. iOS, data & web development enthusiast. I'm actively learning new technologies and developing personal projects.
+Software Engineer. iOS, data & web development enthusiast. I'm actively learning new technologies and developing personal projects.
 ## Published AppStore Apps
 - <img height="30" src="https://i.ibb.co/ZMzCNsb/App-store.png" style="vertical-align: bottom;" /> <a style="text-decoration:none" href="https://apps.apple.com/app/id6473803665">Anime Schedule</a>
 - <img height="30" src="https://i.ibb.co/0QJzdQj/app2.webp" style="vertical-align: bottom;" /> <a style="text-decoration:none" href="https://apps.apple.com/app/id6479965024">Japanese Kanji Study</a>
