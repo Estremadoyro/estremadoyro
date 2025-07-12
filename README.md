@@ -23,9 +23,4 @@ Software Engineer. iOS, data & web development enthusiast. I'm actively learning
 <img height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 </p>
 
-## Connect
-<a href="https://www.linkedin.com/in/leonardo-estremadoyro/" target="_blank"> 
-  <img align="" target="_blank" alt="Leonardo's LinkedIn" width="25px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> 
-</a> &nbsp;
-
 ###### *[03-08-22] Fixed the email address for tracking commits, from now on, commits will appear in the contributions section*
