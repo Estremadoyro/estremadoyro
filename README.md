@@ -2,8 +2,8 @@
 ## Leonardo Estremadoyro
 
 Software Engineer. iOS, data & web development enthusiast. I'm actively learning new technologies and developing personal projects.
-## AppStore Profile
-- <img height="30" src="https://i.ibb.co/b5gHPgn3/64px-App-Store-i-OS-svg.png" style="vertical-align: bottom;" /> <a style="text-decoration:none" href="https://apps.apple.com/pa/developer/leonardo-estremadoyro/id1719859597">AppStore Profile</a>
+## AppStore
+- <img height="30" src="https://i.ibb.co/b5gHPgn3/64px-App-Store-i-OS-svg.png" style="vertical-align: bottom;" /> <a style="text-decoration:none" href="https://apps.apple.com/pa/developer/leonardo-estremadoyro/id1719859597">My app portfolio</a>
 
 ## Technologies
 <p>
